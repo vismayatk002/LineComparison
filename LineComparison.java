@@ -4,3 +4,4 @@ public class LineComparison{
 
         System.out.println("Welcome to Line Comparison Computation Program");
     }
+}
